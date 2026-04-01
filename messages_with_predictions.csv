@@ -1,0 +1,436 @@
+message,predicted_intent
+mkt in USDCAD: 0.7399 / 0.7402,price_quote
+I have GBPUSD 0.8386 / 0.8391 live,price_quote
+hearing large sovereign buying in EURUSD through Asian desks overnight,market_commentary
+"saw your email, will respond properly after lunch",noise
+USDJPY 140.6/140.61,price_quote
+gm,noise
+"large seller in META, can offer at 285.2 for 35k",price_quote
+OAT 10Y offered at 2.757 for 25mm,price_quote
+"treasury auction went poorly, tail of 2bp, 10Y selling off",market_commentary
+"swap spreads compressing, seeing pension fund duration extension",market_commentary
+"client needs 20m EURJPY, what can you do?",rfq
+"large seller in AMZN, can offer at 249.85 for 36k",rfq
+"risk limits reset for the new month, please check your allocations",operational
+quarterly best execution report due next Wednesday,operational
+"new client onboarding complete for Crescent Capital, they're live",operational
+"looking for a price in NZDUSD, 200m clip",rfq
+MSFT offered at 145.96 for 27k shares,price_quote
+"need a market in GOOGL, 74k shares",rfq
+need a price in 50m USDCAD,rfq
+"client needs 50m USDCAD, what can you do?",rfq
+"looking for a bid on MSFT block, ~75k",rfq
+showing UST 2Y at 5.128 in 5mm,price_quote
+mkt in GBPUSD: 0.6617 / 0.6618,price_quote
+lunch?,noise
+GBPJPY spot 103.81/103.86 good for 50m,price_quote
+"hey, how was your weekend?",noise
+equity index futures pointing to a gap lower at the open,market_commentary
+JGB 10Y mkt: 4.16 / 4.11,price_quote
+compliance reminder: all trades over 50mm need pre-approval,operational
+lol,noise
+AUDUSD 0.8391/0.8393,price_quote
+"can show you 1.2829/1.2831 in EURUSD, up to 100m",price_quote
+showing UST 10Y at 4.716 in 5mm,price_quote
+"SSI enrichment failed for 3 trades, manual intervention needed",operational
+"BoE decision Thursday, market pricing 60% chance of a hold",market_commentary
+"looking to buy 10mm Bund 10Y, where are you?",rfq
+I have EURUSD 0.9624 / 0.9627 live,price_quote
+"need a market in AMZN, 34k shares",rfq
+inflows into money market funds hit record $6.2tn this week,market_commentary
+"I'm 401.07 on GS, 33k available",price_quote
+please update your P&L by 17:00 for month-end,operational
+"GBPJPY 119.45-119.46 for 5m, firm 30s",price_quote
+"rates market feels heavy, seeing real money selling in 10Y",market_commentary
+showing UST 5Y at 4.625 in 5mm,price_quote
+can you send me that spreadsheet again?,noise
+EURJPY spot 145.95/145.97 good for 100m,price_quote
+"Japanese wage data surprised to the upside, BOJ rate hike expectations building",market_commentary
+"thx for the intro to their PM, very helpful",noise
+"I can offer UST 30Y at 1.707, 25mm clip",price_quote
+"AUDUSD 1.2187-1.219 for 50m, firm 30s",price_quote
+👍,noise
+showing Bund 10Y at 3.964 in 50mm,price_quote
+can you quote USDCAD in 20m?,rfq
+"central bank speakers today: ECB at 14:00, Fed minutes at 19:00 GMT",market_commentary
+UST 10Y 1.598/1.578,price_quote
+"AC is broken again, freezing in here",noise
+"year-end portfolio valuation reports distributed, review by Friday",operational
+"EURJPY 111.93-111.98 for 10m, firm 30s",price_quote
+"enjoy your holiday, catch up when you're back",noise
+UST 5Y mkt: 3.326 / 3.276,price_quote
+"leveraged community reportedly very long USD, positioning feels stretched",market_commentary
+"credit spreads widening out, IG index +5bp since the open",market_commentary
+"can show META at 221.29, block of 68k",price_quote
+"rates market feels heavy, seeing real money selling in 10Y",market_commentary
+need a price in 100m EURUSD,rfq
+"thanks for the fill on the JPY, can you also show me GBPUSD in 20m?",rfq
+month-end rebalancing expected to drive USD selling into the fix,market_commentary
+"USDJPY falling like a stone, 152.80 last. You want to get involved?",market_commentary
+lunch?,noise
+can you offer UST 10Y? looking for 100mm,rfq
+showing Gilt 10Y at 4.042 in 10mm,price_quote
+sorry wrong chat!,noise
+showing UST 5Y at 3.381 in 25mm,price_quote
+"audit team requesting trade records for Q3, deadline next Friday",operational
+"sure thing, will do",noise
+did you see the game last night? incredible finish,noise
+"VIX creeping higher, up to 18 from 15 earlier this week",market_commentary
+"client wants to move 7k BAC, can you work it?",rfq
+rfq: 100m EURGBP spot pls,rfq
+"looking for a price in EURJPY, 10m clip",rfq
+JPM 268.23 bid for 7k,rfq
+"looking for a bid on AMZN block, ~13k",rfq
+"OPEC meeting this weekend, rumours of production cut extension",market_commentary
+showing EURGBP at 1.4361/1.4362 in 5m,price_quote
+AUDUSD spot 0.7712/0.7717 good for 10m,price_quote
+rfq: UST 2Y 25mm,rfq
+I have AUDUSD 0.7471 / 0.7476 live,price_quote
+"I can offer Gilt 10Y at 1.501, 50mm clip",price_quote
+"need a market in NVDA, 74k shares",rfq
+can you quote USDCHF in 100m?,rfq
+"need a market in BAC, 57k shares",rfq
+"commodities complex rallying, copper and iron ore both up 3%",market_commentary
+"JPM: 182.42 last, I can improve by 50c on 64k",price_quote
+"emerging market sovereign spreads tightening, risk appetite improving",market_commentary
+can you offer OAT 10Y? looking for 25mm,rfq
+equity index futures pointing to a gap lower at the open,market_commentary
+showing UST 5Y at 3.041 in 25mm,price_quote
+GBPUSD 1.3086/1.3087,price_quote
+"can show you 104.92/104.95 in GBPJPY, up to 20m",price_quote
+market data vendor contract renewal due in 2 weeks,operational
+cheers,noise
+"office party next Thursday, you coming?",noise
+"client looking for OAT 10Y in size, 5mm",rfq
+"access rights updated for new joiners, please verify",operational
+"that NVDA print was wild. Speaking of which, can you show me 30k shares?",rfq
+showing JGB 10Y at 1.749 in 50mm,price_quote
+"high yield market surprisingly resilient, new issues oversubscribed",market_commentary
+working from home tomorrow,noise
+"month-end close process starts at 17:00 sharp, all books must be flat",operational
+"just saw your LinkedIn post, great stuff",noise
+showing AUDUSD at 0.6521/0.6522 in 5m,price_quote
+"can show you 156.7/156.72 in USDJPY, up to 50m",price_quote
+can you offer JGB 10Y? looking for 10mm,rfq
+"client needs 25m GBPUSD, what can you do?",rfq
+"thanks mate, talk later",noise
+"large seller in TSLA, can offer at 318.82 for 12k",rfq
+rfq: UST 10Y 5mm,rfq
+"team dinner tonight at 19:30, are you in?",noise
+"updated my axe list: offering MSFT at 420, GS at 510, both in 15k clips",price_quote
+np,noise
+"central bank speakers today: ECB at 14:00, Fed minutes at 19:00 GMT",market_commentary
+whats your axe in UST 10Y?,price_quote
+"I can offer Bund 10Y at 4.513, 10mm clip",price_quote
+BAC 198.86 bid for 17k,price_quote
+"nice one, appreciate it",noise
+whats ur best in 100m EURUSD?,rfq
+I have EURGBP 1.4091 / 1.4092 live,price_quote
+can you quote GBPJPY in 20m?,rfq
+lol,noise
+"asia session was quiet, mostly position squaring ahead of data",market_commentary
+"need to sell 10m EURUSD, can you help?",rfq
+UST 2Y mkt: 2.889 / 2.839,price_quote
+anyone know the wifi password for the guest network?,noise
+"CPI print tomorrow, consensus is +0.3% m/m, market positioned for upside surprise",market_commentary
+AUDUSD spot 1.2032/1.2033 good for 50m,price_quote
+"market feels very short gamma here, could see sharp moves either way",market_commentary
+"NZDUSD 1.0826-1.0831 for 5m, firm 30s",price_quote
+great presentation this morning,noise
+showing OAT 10Y at 5.089 in 50mm,price_quote
+"need to sell 25m NZDUSD, can you help?",rfq
+"Japanese wage data surprised to the upside, BOJ rate hike expectations building",market_commentary
+quiet day today huh,noise
+"looking for a bid on JPM block, ~16k",rfq
+I have USDJPY 152.23 / 152.26 live,price_quote
+"voice recording system was down 10:15-10:42, trades during window need manual log",operational
+need a price in 200m USDCHF,rfq
+whats ur best in 10m USDJPY?,rfq
+"trade break on ref TXN-20240315-001, please investigate",operational
+"pre-trade compliance check failing for bond trades over 100mm, IT investigating",operational
+showing USDJPY at 132.26/132.29 in 10m,price_quote
+quarterly best execution report due next Wednesday,operational
+USDCAD spot 1.474/1.4741 good for 100m,price_quote
+JGB 10Y 1.507/1.487,price_quote
+reminder: mandatory training on market abuse regulation this Thursday,operational
+whats ur best in 100m USDJPY?,rfq
+"client looking for Gilt 10Y in size, 5mm",rfq
+showing UST 30Y at 2.09 in 5mm,price_quote
+"GBPUSD 0.9411-0.9416 for 20m, firm 30s",price_quote
+"AAPL 185.50 offered, 25k. Also did you get my email re: the ISDA?",price_quote
+"I can offer JGB 10Y at 4.613, 50mm clip",price_quote
+"CPI print tomorrow, consensus is +0.3% m/m, market positioned for upside surprise",market_commentary
+back at my desk now,noise
+whats your axe in Bund 10Y?,price_quote
+I have USDCHF 0.841 / 0.8412 live,price_quote
+"I'm 321.11 on AAPL, 65k available",price_quote
+"just got back from vacation, what did I miss? also need to buy 100mm Bund 10Y",rfq
+pls quote USDCHF 100m,rfq
+USDJPY 156.5/156.52,price_quote
+np,noise
+whats your axe in Gilt 10Y?,price_quote
+"client needs 25m EURJPY, what can you do?",rfq
+happy Friday!,noise
+quiet screens... if you need AUDUSD I can show you something competitive,price_quote
+BAC offered at 478.63 for 15k shares,rfq
+can you offer OAT 10Y? looking for 100mm,rfq
+"client wants to move 54k GOOGL, can you work it?",rfq
+"need a market in BAC, 5k shares",rfq
+"liquidity thin ahead of the long weekend, spreads wider than usual",market_commentary
+rfq: UST 5Y 50mm,rfq
+"IT deploying new pricing tool to production tonight, release notes attached",market_commentary
+"looking for a bid on GS block, ~58k",rfq
+EURUSD 1.0850/1.0855 btw did you see the ECB speech?,market_commentary
+UST 2Y 5.216/5.166,price_quote
+UST 30Y mkt: 1.908 / 1.878,price_quote
+"I'm 461.57 on JPM, 43k available",price_quote
+np,noise
+congrats on the deal yesterday!,noise
+can you quote NZDUSD in 20m?,rfq
+showing UST 2Y at 3.985 in 10mm,price_quote
+showing Gilt 10Y at 1.874 in 25mm,price_quote
+"oil bid on Middle East tensions, Brent up 2% and dragging NOK higher",market_commentary
+IT ticket #4892 resolved: pricing feed latency issue fixed,market_commentary
+"IT deploying new pricing tool to production tonight, release notes attached",market_commentary
+USDCAD 1.2021/1.2023,market_commentary
+"oil bid on Middle East tensions, Brent up 2% and dragging NOK higher",market_commentary
+BAC 234.99 bid for 75k,rfq
+UST 30Y 3.453/3.423,price_quote
+"SSI enrichment failed for 3 trades, manual intervention needed",operational
+where would you show GBPJPY in 100m?,rfq
+"client looking for Bund 10Y in size, 50mm",rfq
+USDJPY 121.54/121.57,price_quote
+"GS: 133.16 last, I can improve by 50c on 10k",price_quote
+"GBPJPY 133.15-133.2 for 10m, firm 30s",price_quote
+showing USDCHF at 0.9189/0.9194 in 25m,price_quote
+"looking to sell 100mm JGB 10Y, where are you?",rfq
+"just updated my Teams status, should be green now",noise
+"client wants to move 32k NVDA, can you work it?",rfq
+EURUSD spot 0.9002/0.9004 good for 100m,price_quote
+MSFT offered at 425.29 for 56k shares,price_quote
+"correlation breaking down between equities and rates, unusual regime",market_commentary
+can you send me that spreadsheet again?,noise
+"credit line for Titan Brokers increased to $50mm, effective today",rfq
+"need to buy 5m USDCHF, can you help?",rfq
+thought the town hall was really good today,noise
+counterparty credit review meeting at 15:00 in room 4B,operational
+"need a market in TSLA, 57k shares",rfq
+"US durable goods data in 30 min, consensus at +0.5% m/m",market_commentary
+please confirm your positions before the 16:00 cut,noise
+"client changed their mind, cancel the GBPUSD rfq from earlier",rfq
+showing JGB 10Y at 2.805 in 100mm,price_quote
+"I'm 81.12 on GOOGL, 62k available",price_quote
+PBOC set to announce reserve requirement ratio change this weekend per sources,operational
+"BoE decision Thursday, market pricing 60% chance of a hold",market_commentary
+pls quote EURJPY 25m,rfq
+UST 5Y offered at 4.334 for 25mm,price_quote
+printer on 3rd floor is broken again,noise
+anyone know the wifi password for the guest network?,noise
+hey happy Monday! quick one — where's USDJPY?,noise
+whats ur best in 25m NZDUSD?,rfq
+"japan MOF rumored to be checking rates, USDJPY struggling above 155",price_quote
+"year-end portfolio valuation reports distributed, review by Friday",operational
+JPM 169.09 bid for 38k,rfq
+"access rights updated for new joiners, please verify",operational
+"I'm axed to sell UST 5Y at 4.25 if you're interested, otherwise just catching up",price_quote
+showing EURUSD at 1.1258/1.126 in 5m,price_quote
+"large seller in GS, can offer at 478.19 for 15k",price_quote
+"system maintenance tonight 22:00-02:00 GMT, no impact on trading",operational
+working from home tomorrow,noise
+"credit spreads widening out, IG index +5bp since the open",market_commentary
+I have AUDUSD 1.1296 / 1.1297 live,price_quote
+"AUDUSD 0.9326-0.9328 for 25m, firm 30s",price_quote
+"large seller in AMZN, can offer at 231.57 for 43k",price_quote
+"new counterparty Silverstone Capital approved, credit limit set at $25mm",rfq
+pls quote USDCAD 200m,rfq
+"EM local bonds selling off, Brazil 10Y yield up 15bp",market_commentary
+"high yield market surprisingly resilient, new issues oversubscribed",market_commentary
+"can show you 109.33/109.36 in EURJPY, up to 50m",price_quote
+BAC offered at 374.5 for 40k shares,rfq
+"SPX approaching all-time highs, resistance at 5200",market_commentary
+I have AUDUSD 0.7796 / 0.7801 live,price_quote
+"funding markets tightening into quarter-end, overnight rates elevated",market_commentary
+"AUDUSD 0.6213-0.6215 for 25m, firm 30s",price_quote
+USDJPY spot 114.87/114.88 good for 20m,price_quote
+can you quote GBPUSD in 20m?,rfq
+"client wants to move 9k AAPL, can you work it?",rfq
+"nm ignore last price on EURUSD, was stale. Let me refresh",price_quote
+happy Friday!,noise
+compliance reminder: all trades over 50mm need pre-approval,operational
+"can show you 1.3586/1.3587 in EURGBP, up to 10m",price_quote
+showing NZDUSD at 1.0965/1.097 in 50m,price_quote
+TSLA offered at 372.92 for 21k shares,price_quote
+"client needs 50m USDJPY, what can you do?",rfq
+"client needs 5m NZDUSD, what can you do?",rfq
+quarterly best execution report due next Wednesday,operational
+"commodities complex rallying, copper and iron ore both up 3%",market_commentary
+"I can offer Bund 10Y at 1.603, 25mm clip",price_quote
+EURUSD spot 1.1869/1.187 good for 5m,price_quote
+"japan MOF rumored to be checking rates, USDJPY struggling above 155",price_quote
+where would you show EURUSD in 100m?,rfq
+whats ur best in 5m NZDUSD?,rfq
+"looking for a bid on AAPL block, ~76k",rfq
+UST 30Y mkt: 3.545 / 3.525,price_quote
+mkt in AUDUSD: 1.2705 / 1.2708,price_quote
+"looking to sell 10mm UST 5Y, where are you?",rfq
+can you quote USDCHF in 5m?,rfq
+rfq: 25m GBPUSD spot pls,rfq
+META 498.59 bid for 75k,rfq
+"good chat, lets catch up again next week",noise
+"EURGBP 1.3041-1.3046 for 200m, firm 30s",price_quote
+GBPJPY 123.96/123.98,price_quote
+"looking to sell 50mm UST 5Y, where are you?",rfq
+"saw your email, will respond properly after lunch",noise
+NZDUSD spot 0.9561/0.9566 good for 10m,price_quote
+"I can offer OAT 10Y at 3.138, 50mm clip",price_quote
+"OPEC meeting this weekend, rumours of production cut extension",market_commentary
+where would you show NZDUSD in 100m?,rfq
+whats your axe in UST 2Y?,price_quote
+showing USDCAD at 1.0164/1.0165 in 25m,price_quote
+USDCAD 0.9591/0.9594,price_quote
+"client needs 5m NZDUSD, what can you do?",rfq
+"looking to buy 10mm Bund 10Y, where are you?",rfq
+"system maintenance tonight 22:00-02:00 GMT, no impact on trading",operational
+"FIX connection to exchange restored, all systems green",noise
+"EM currencies under pressure, TRY and ZAR leading the sell-off",market_commentary
+"need to sell 200m USDCAD, can you help?",rfq
+whats your axe in UST 5Y?,price_quote
+"I can offer Gilt 10Y at 5.25, 100mm clip",price_quote
+need a bid on 25mm UST 2Y,rfq
+"looking to buy 100mm Bund 10Y, where are you?",rfq
+pls quote NZDUSD 20m,rfq
+need a price in 50m GBPJPY,rfq
+can you quote NZDUSD in 100m?,rfq
+"gilt market stabilizing after yesterday's sell-off, 10Y back below 4.5%",market_commentary
+"GBPJPY 159.03-159.04 for 100m, firm 30s",price_quote
+"client needs 50m EURGBP, what can you do?",rfq
+"audit team requesting trade records for Q3, deadline next Friday",operational
+please update your P&L by 17:00 for month-end,operational
+UST 2Y offered at 4.877 for 50mm,price_quote
+"looking to sell 50mm Gilt 10Y, where are you?",rfq
+"heads up - about to hit your bid on the EURGBP, confirming 10m at 0.8550",rfq
+whats your axe in Bund 10Y?,price_quote
+"USDCHF 1.2269-1.2274 for 10m, firm 30s",price_quote
+MSFT 477.99 bid for 31k,price_quote
+crypto volatility spilling over into traditional markets today,market_commentary
+"netting break on last week's JPY trades, can we reconcile?",market_commentary
+"daily risk report attached, VAR at 85% of limit",operational
+hearing large sovereign buying in EURUSD through Asian desks overnight,market_commentary
+any recommendations for restaurants near Bank?,rfq
+"FIX connection to exchange restored, all systems green",noise
+"looking to buy 50mm UST 5Y, where are you?",rfq
+rfq: UST 30Y 50mm,rfq
+"client looking for JGB 10Y in size, 100mm",rfq
+"looking to buy 25mm OAT 10Y, where are you?",rfq
+can you quote EURJPY in 50m?,rfq
+GBPUSD spot 1.4786/1.4788 good for 25m,price_quote
+"large seller in TSLA, can offer at 93.71 for 41k",price_quote
+"client needs 100m AUDUSD, what can you do?",rfq
+sorry wrong chat!,noise
+still waiting for IT to fix my Bloomberg terminal,noise
+can you quote NZDUSD in 100m?,rfq
+showing OAT 10Y at 2.227 in 50mm,price_quote
+ISDA docs for the new counterparty are ready for review,operational
+"train was delayed, absolute nightmare",market_commentary
+"need a market in META, 40k shares",rfq
+gm,noise
+"looking to buy 5mm UST 10Y, where are you?",rfq
+printer on 3rd floor is broken again,noise
+"client needs 25m EURGBP, what can you do?",rfq
+"need to buy 5m EURGBP, can you help?",rfq
+mkt in USDCAD: 1.2917 / 1.292,price_quote
+UST 5Y offered at 3.736 for 50mm,price_quote
+SSI update: Pinnacle Markets changed their USD nostro to Citi,market_commentary
+UST 10Y 3.924/3.914,price_quote
+"looking for a price in USDCAD, 5m clip",rfq
+mkt in USDJPY: 145.35 / 145.36,price_quote
+👍,noise
+"heading out early today, kid's school thing",noise
+EURJPY spot 119.87/119.88 good for 5m,price_quote
+Bund 10Y mkt: 4.514 / 4.464,price_quote
+sounds good to me,noise
+"need a market in AMZN, 21k shares",rfq
+"client wants to move 58k GOOGL, can you work it?",rfq
+ISDA docs for the new counterparty are ready for review,operational
+showing UST 5Y at 2.053 in 50mm,price_quote
+market data vendor contract renewal due in 2 weeks,operational
+where would you show USDCAD in 50m?,rfq
+"yuan fixing came in weaker than expected, offshore selling picking up",market_commentary
+drinks after work on Friday? usual place,noise
+"enjoy your holiday, catch up when you're back",noise
+mkt in USDJPY: 158.01 / 158.04,price_quote
+where would you show EURJPY in 5m?,rfq
+"credit spreads widening out, IG index +5bp since the open",market_commentary
+showing USDJPY at 156.34/156.36 in 20m,price_quote
+"cross-border payment flagged by compliance, need additional docs",operational
+please confirm your positions before the 16:00 cut,noise
+"nice one, appreciate it",noise
+can you quote GBPJPY in 50m?,rfq
+"desk is so quiet today, everyone on holiday?",noise
+where would you show EURJPY in 200m?,rfq
+"desk is so quiet today, everyone on holiday?",noise
+"I'm 157.43 on NVDA, 11k available",price_quote
+need a price in 5m GBPUSD,rfq
+whats your axe in UST 5Y?,price_quote
+counterparty credit review meeting at 15:00 in room 4B,operational
+GBPUSD spot 1.0084/1.0087 good for 50m,price_quote
+"looking for a bid on AMZN block, ~51k",rfq
+rfq: Bund 10Y 5mm,rfq
+"can show you 0.8502/0.8505 in USDCHF, up to 10m",price_quote
+"japan MOF rumored to be checking rates, USDJPY struggling above 155",price_quote
+haha nice one,noise
+"bank earnings season kicks off tomorrow, options market implies 3% moves",market_commentary
+"EM currencies under pressure, TRY and ZAR leading the sell-off",market_commentary
+"equity desks reporting heavy selling in tech names, rotation into value",market_commentary
+showing AUDUSD at 1.3062/1.3067 in 10m,price_quote
+"looking for a price in AUDUSD, 50m clip",rfq
+"asia session was quiet, mostly position squaring ahead of data",market_commentary
+AUDUSD 1.4718/1.4719,price_quote
+"year-end portfolio valuation reports distributed, review by Friday",operational
+"new counterparty Silverstone Capital approved, credit limit set at $25mm",rfq
+showing JGB 10Y at 2.845 in 10mm,price_quote
+rfq: Bund 10Y 5mm,rfq
+crypto volatility spilling over into traditional markets today,market_commentary
+drinks after work on Friday? usual place,noise
+whats ur best in 200m NZDUSD?,rfq
+"netting break on last week's JPY trades, can we reconcile?",market_commentary
+USDJPY spot 101.5/101.53 good for 10m,price_quote
+rfq: Gilt 10Y 10mm,rfq
+"need to sell 25m EURUSD, can you help?",rfq
+Gilt 10Y offered at 3.983 for 25mm,price_quote
+lol,noise
+"AMZN: 390.21 last, I can improve by 50c on 40k",price_quote
+"leveraged ETF rebalancing expected into close, could push vol higher",market_commentary
+"correlation breaking down between equities and rates, unusual regime",market_commentary
+"settlement instructions updated for Apex Capital, see attached",operational
+showing GBPJPY at 153.13/153.16 in 50m,price_quote
+"NFP on Friday, whisper number is 200k+ vs consensus 180k",market_commentary
+fiscal concerns in Italy pushing BTP-Bund spread wider,market_commentary
+"SNB intervention rumors back, EURCHF finding a floor around 0.93",market_commentary
+market is nuts today... anyway need a price on 50mm UST 10Y,rfq
+I have USDJPY 154.33 / 154.36 live,price_quote
+"looking for a bid on MSFT block, ~17k",rfq
+"month-end close process starts at 17:00 sharp, all books must be flat",operational
+sorry wrong chat!,noise
+"audit team requesting trade records for Q3, deadline next Friday",operational
+can you offer UST 2Y? looking for 100mm,rfq
+"can show AMZN at 212.53, block of 73k",price_quote
+GBPUSD 0.9365/0.9367,price_quote
+I have USDJPY 121.22 / 121.27 live,price_quote
+"need to sell 20m NZDUSD, can you help?",rfq
+JPM offered at 193.78 for 37k shares,rfq
+"need to buy 20m USDCHF, can you help?",rfq
+remind me to tell you about the client dinner story,noise
+EURUSD 0.6831/0.6836,price_quote
+can you offer Gilt 10Y? looking for 10mm,rfq
+PBOC set to announce reserve requirement ratio change this weekend per sources,operational
+"blotter reconciliation complete, 2 unmatched trades flagged",operational
+"train was delayed, absolute nightmare",market_commentary
+"SPX approaching all-time highs, resistance at 5200",market_commentary
+showing Bund 10Y at 3.124 in 25mm,price_quote
+"bid lifted on the 10Y, now offered at 4.35. Thx for lunch yesterday btw",price_quote
+BAC 192.73 bid for 36k,rfq
+"can show BAC at 344.37, block of 11k",price_quote
+showing EURUSD at 1.1951/1.1954 in 5m,price_quote
+USDCHF 1.0371/1.0373,price_quote
+EURUSD 0.6843/0.6845,price_quote
